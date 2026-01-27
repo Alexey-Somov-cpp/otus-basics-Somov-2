@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\somov\Repositories\otus-basics-Somov-2\build\CMakeFiles\760853a188b0c374519a0007e7bf97d7\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FF2261D0-4956-3507-9DC5-2335154B1BA2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
